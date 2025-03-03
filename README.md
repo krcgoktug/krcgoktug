@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Göktuğ Karaca.
 
 🌱 I’m Computer Engineer student.
-
+⚡ Contact: krcgktg58@gmail.com
 <!--
 **krcgoktug/krcgoktug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
