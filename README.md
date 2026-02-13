@@ -3,6 +3,7 @@
 - 🔭 Computer Engineering student.
 - 📫 Contact: krcgktg58@gmail.com
 - 💼 LinkedIn: [in/goktug-karaca-921479249](https://www.linkedin.com/in/g%C3%B6ktu%C4%9F-karaca-921479249/)
+- 💻 Website: goktugkaraca.com
 
 ## Tech stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
