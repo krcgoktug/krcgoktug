@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Göktuğ Karaca.
 
 - 🔭 Computer Engineering student.
-- 📫 Contact: krcgktg58@gmail.com
+- 📫 Contact: karacagoktug73@gmail.com
 - 💼 LinkedIn: [in/goktug-karaca-921479249](https://www.linkedin.com/in/g%C3%B6ktu%C4%9F-karaca-921479249/)
 - 💻 Website: https://www.goktugkaraca.com/
 
