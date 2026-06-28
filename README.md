@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/krcgoktug">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&multiline=false&width=720&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+G%C3%B6ktu%C4%9F.;Computer+Engineering+Student+%E2%80%A2+FB%C3%9C;I+build+IoT%2C+embedded+systems+%26+mobile+apps;Arduino+%E2%80%A2+ESP32+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Always+shipping%2C+always+learning." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&multiline=false&width=720&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+G%C3%B6ktu%C4%9F.;Computer+Engineering+Student;I+build+IoT%2C+embedded+systems+%26+mobile+apps;Arduino+%E2%80%A2+ESP32+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Always+shipping%2C+always+learning." alt="typing intro" />
   </a>
 </p>
 
@@ -38,7 +38,6 @@
 const goktug: Developer = {
   name        : "Göktuğ Karaca",
   role        : "Computer Engineering Student",
-  university  : "Fenerbahçe University",
   location    : "Istanbul, Türkiye 🇹🇷",
   focus       : ["IoT", "Embedded Systems", "Mobile Apps", "Full-Stack"],
   currentlyOn : "Smart Fridge — sensors + ESP32-CAM + Flutter dashboard 🍌",
